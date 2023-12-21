@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/4e2f97aa4c044701ab611969c8a916a3/artifacts
+end_time: 1703117156112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e2f97aa4c044701ab611969c8a916a3
+run_name: colorful-skunk-873
+run_uuid: 4e2f97aa4c044701ab611969c8a916a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117153494
+status: 3
+tags: []
+user_id: vanel

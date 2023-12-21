@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/85964ea2d6ab444ba68f34cd564666e7/artifacts
+end_time: 1703117146940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85964ea2d6ab444ba68f34cd564666e7
+run_name: persistent-conch-11
+run_uuid: 85964ea2d6ab444ba68f34cd564666e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117139151
+status: 3
+tags: []
+user_id: vanel

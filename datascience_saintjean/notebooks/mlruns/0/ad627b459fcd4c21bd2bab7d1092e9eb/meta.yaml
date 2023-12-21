@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/ad627b459fcd4c21bd2bab7d1092e9eb/artifacts
+end_time: 1703117161976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad627b459fcd4c21bd2bab7d1092e9eb
+run_name: upset-mole-624
+run_uuid: ad627b459fcd4c21bd2bab7d1092e9eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117159363
+status: 3
+tags: []
+user_id: vanel

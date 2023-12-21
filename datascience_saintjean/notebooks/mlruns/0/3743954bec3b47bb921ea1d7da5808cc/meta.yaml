@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/3743954bec3b47bb921ea1d7da5808cc/artifacts
+end_time: 1703117149799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3743954bec3b47bb921ea1d7da5808cc
+run_name: serious-whale-175
+run_uuid: 3743954bec3b47bb921ea1d7da5808cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117146943
+status: 3
+tags: []
+user_id: vanel

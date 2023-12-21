@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/adbd59bfeda4482c8e71aece7a8beb6a/artifacts
+end_time: 1703117168836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adbd59bfeda4482c8e71aece7a8beb6a
+run_name: dashing-sponge-982
+run_uuid: adbd59bfeda4482c8e71aece7a8beb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117165051
+status: 3
+tags: []
+user_id: vanel

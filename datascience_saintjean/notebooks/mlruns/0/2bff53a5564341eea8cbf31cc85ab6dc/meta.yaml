@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/2bff53a5564341eea8cbf31cc85ab6dc/artifacts
+end_time: 1703117179354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bff53a5564341eea8cbf31cc85ab6dc
+run_name: polite-ant-989
+run_uuid: 2bff53a5564341eea8cbf31cc85ab6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117175744
+status: 3
+tags: []
+user_id: vanel

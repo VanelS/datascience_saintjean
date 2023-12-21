@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/98a084953b6b4d84901df4d7e38cf728/artifacts
+end_time: 1703117159360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98a084953b6b4d84901df4d7e38cf728
+run_name: shivering-conch-3
+run_uuid: 98a084953b6b4d84901df4d7e38cf728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117156125
+status: 3
+tags: []
+user_id: vanel

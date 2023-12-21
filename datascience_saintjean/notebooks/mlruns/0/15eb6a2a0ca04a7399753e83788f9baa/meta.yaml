@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/15eb6a2a0ca04a7399753e83788f9baa/artifacts
+end_time: 1703117189674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15eb6a2a0ca04a7399753e83788f9baa
+run_name: silent-cow-844
+run_uuid: 15eb6a2a0ca04a7399753e83788f9baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117186117
+status: 3
+tags: []
+user_id: vanel

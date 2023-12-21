@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vanel/datascience_saintjean/datascience_saintjean/notebooks/mlruns/0/3c8b2e5c56f146168e0d13d4e779640a/artifacts
+end_time: 1703117175739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c8b2e5c56f146168e0d13d4e779640a
+run_name: hilarious-roo-292
+run_uuid: 3c8b2e5c56f146168e0d13d4e779640a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703117172491
+status: 3
+tags: []
+user_id: vanel
