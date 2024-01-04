@@ -1,0 +1,20 @@
+artifact_path: model_sqrt_K-Nearest Neighbors
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.9.2
+model_size_bytes: 101649
+model_uuid: f47c59a459984b6b8ba104ee5eff4c65
+run_id: b6b19f63aa5d4f53868a614311708a31
+utc_time_created: '2023-12-21 18:04:36.247373'

@@ -1,0 +1,20 @@
+artifact_path: model_sqrt_Support Vector Machine
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.9.2
+model_size_bytes: 61567
+model_uuid: 012429a57c2049c9b2cbb53f2b969eef
+run_id: cc02b719294748fe8349a8dd2acf14c9
+utc_time_created: '2023-12-21 18:04:33.580883'
